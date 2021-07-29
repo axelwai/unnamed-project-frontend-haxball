@@ -1,7 +1,7 @@
 export default function NavigationBar() {
 	return (
 		<main>
-			About
+			About what?
 		</main>
 	)
 }
