@@ -1,0 +1,74 @@
+.app {
+	width: 75%;
+	margin: auto;
+	margin-top: 20px;
+	background-color: rgba(255,0,0,0.1);
+}
+
+.banner {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 200px;
+}
+
+.userBar {
+	height: 36px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: rgba(255,0,0,0.1);
+	padding: 0 12px;
+}
+.userBar > div {
+	display: flex;
+	align-items: center;
+	height: 100%;
+}
+
+.navigationBar {
+	height: 36px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(255,0,0,0.1);
+	padding: 0 12px;
+}
+.navigationBar > a {
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+	height: 100%;
+	padding: 8px;
+}
+.navigationBar > a:hover {
+	background-color: rgba(0,0,0,0.1);
+}
+
+.pageBody {
+	display: flex;
+}
+
+@media only screen and (max-width: 860px) {
+	.pageBody {
+		flex-direction: column;
+	}
+}
+
+main {
+	padding: 25px;
+	flex: 1;
+}
+
+aside {
+	padding: 25px;
+	min-width: 35%;
+	border: 1px solid;
+}
+
+.matchesTable {
+	width: 100%;	
+}
+.matchesTable td.team1 {
+	text-align: right;
+}

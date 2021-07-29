@@ -1,11 +1,13 @@
-import React from 'react';
+import Banner from './Banner';
+import UserBar from './UserBar';
+import NavigationBar from './NavigationBar';
 
-const Header = () => {
+export default function Header() {
 	return (
-		<div>
-			Header!
-		</div>
+		<header>
+			<UserBar></UserBar>
+			<Banner></Banner>
+			<NavigationBar></NavigationBar>
+		</header>
 	);
 };
-
-export default Header;
