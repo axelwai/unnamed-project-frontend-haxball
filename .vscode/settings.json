@@ -1,0 +1,8 @@
+{
+	"editor.detectIndentation": false,
+	"editor.autoIndent": "advanced",
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"prettier.singleQuote": true,
+	"prettier.jsxSingleQuote": true
+}
