@@ -1,6 +1,6 @@
-# [Live Preview] (http://unnamed-project-frontend-haxball.s3-website.eu-central-1.amazonaws.com/)
+# Live Preview
 
-Up to date with master branch.
+[CLICK HERE.](http://unnamed-project-frontend-haxball.s3-website.eu-central-1.amazonaws.com/) (up to date with master branch)
 
 # Getting Started with Create React App
 
