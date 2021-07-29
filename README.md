@@ -1,6 +1,6 @@
-# Live Preview
+# [Live Preview] (http://unnamed-project-frontend-haxball.s3-website.eu-central-1.amazonaws.com/)
 
-Every commit to the master branch will update [this live preview](http://unnamed-project-frontend-haxball.s3-website.eu-central-1.amazonaws.com/)
+Up to date with master branch.
 
 # Getting Started with Create React App
 
