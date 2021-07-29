@@ -1,9 +1,9 @@
+import Clock from "./Clock";
+
 export default function UserBar() {
 	return (
 		<div className="userBar">
-			<div>
-				Lorem ipsum dolor sit.
-			</div>
+			<Clock />
 			<div>
 				Welcome!
 			</div>
