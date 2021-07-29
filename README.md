@@ -1,3 +1,7 @@
+# Live Preview
+
+Every commit to the master branch will update [this live preview](http://unnamed-project-frontend-haxball.s3-website.eu-central-1.amazonaws.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
